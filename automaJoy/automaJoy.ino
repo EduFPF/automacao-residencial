@@ -4,7 +4,7 @@
 	Automação Residencial
 */
 
-int rele = 13;
+int rele = 10;
 char s;
 
 void setup() {
